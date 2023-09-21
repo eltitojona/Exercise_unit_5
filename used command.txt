@@ -1,0 +1,11 @@
+i used
+
+git clone
+git add
+cd 
+dir
+git commit -a -m
+git pull
+git push
+git log
+git show
